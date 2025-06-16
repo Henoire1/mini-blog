@@ -15,10 +15,9 @@ body{
 .card-mini{
   box-shadow : 2px 1px 3px #E5EAF0;
   border: 1px solid rgba(234, 222, 222, 0.641);
-  margin: 164px;
+  margin: 164em;
   padding: auto;
  position: absolute;
-  flex-direction: column;
   box-shadow: 12px;
   justify-content: center;
   
