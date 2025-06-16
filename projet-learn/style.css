@@ -1,0 +1,58 @@
+
+
+
+*{
+  font-family: "Sora";
+ border-radius: 16px;
+  margin: 6px;
+  box-sizing: 10px;
+}
+body{
+  width: 100dvw;
+  height: 100dvw;
+  font-size: 14px;
+}
+.card-mini{
+  box-shadow : 2px 1px 3px #E5EAF0;
+  border: 1px solid rgba(234, 222, 222, 0.641);
+  margin: 164px;
+  padding: auto;
+ position: absolute;
+  flex-direction: column;
+  box-shadow: 12px;
+  justify-content: center;
+  
+  
+}
+
+.foot{
+  font-size:10px ;
+  color: #394150;
+  font-weight: 400px;
+}
+button{
+ background-color: #F2EAFD;
+ color: #7C19EE;
+ padding: 6px;
+ height: 25px;
+ border: none;
+ text-align: center;
+ width: 50px;
+ font-size: 10px;
+ align-items: left;
+}
+.Card{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.title{
+  font-size: 18px;
+  font-weight: 600;
+}
+.comment{
+  color: #394150;
+  font: bold;
+}
